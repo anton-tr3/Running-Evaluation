@@ -58,4 +58,4 @@ pip install -r requirements.txt
 Find your running activity data [here](https://connect.garmin.com/modern/activities?activityType=running) and export to csv. Replace `Activities.csv` with the exported file.
 
 ### 4. Run dashboard
-```python activities_streamlit_app.py```
+```streamlit run activities_streamlit_app.py```
