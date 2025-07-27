@@ -49,3 +49,13 @@ This project analyses outdoor running activities extracted from Garmin smartwatc
 git clone https://github.com/anton-tr3/garmin-performance-dashboard.git
 ```
 
+### 2. Install dependencies
+```
+pip install -r requirements.txt
+```
+
+### 3. Extract activity data from Garmin Connect
+Find your running activity data [here](https://connect.garmin.com/modern/activities?activityType=running) and export to csv. Replace `Activities.csv` with the exported file.
+
+### 4. Run dashboard
+```python activities_streamlit_app.py```
