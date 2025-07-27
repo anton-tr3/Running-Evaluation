@@ -3,7 +3,7 @@
 This project analyses outdoor running activities extracted from Garmin smartwatches through a gradient boosting model to give personalized feedback on performance. Using XGBoost regression and SHAP explainability, it evaluates training sessions based on to minimise heart rate and pace while accounting for elevation to generate a performance score and suggestions on running dynamics to improve, all displayed on a visually appealing and easy to navigate web dashboard.
 
 <p align="center">
-  <img src="https://github.com/yourusername/running-performance-analyzer/assets/demo.gif" width="600"/>
+  <img src="https://github.com/user-attachments/assets/6e80affe-8142-4c1b-b5a8-b9d4c34701a9" width="800"/>
 </p>
 
 ## Features
